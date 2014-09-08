@@ -1,6 +1,6 @@
-title: Meetup 1: Arduino Basics
-date: 2014-09-06 14:02:46
-tags:
+title: Meetup 1 - Arduino Basics
+date: 2014-07-02 08:02:46
+tags: meetup
 ---
 The slides of the first talk on Arduino are [here](https://speakerdeck.com/mulderp/arduino-july-meetup).
 

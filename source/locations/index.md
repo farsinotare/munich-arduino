@@ -10,7 +10,7 @@ The [Munich FabLab](http://www.fablab-muenchen.de/) offers a great variety of to
 
 FabLab is located at Gollierstrasse 70, Westend.
 
-# Munich Maker Labl
+# Munich Maker Lab
 
 The [Munich Maker Lab](https://munichmakerlab.de/) offers a great variety of tools, wifi and a number of electronic equipment. Especially, due to the Siemens background of the space, there are many electronic spare parts that are free to use to Club members.
 

@@ -1,5 +1,6 @@
-title: Meetup 2: Analog Signals
-date: 2014-08-02 10:02:50
+title: Meetup 2 - Analog Signals
+date: 2014-08-02 09:02:50
+tags: meetup
 ---
 
 Agenda:
