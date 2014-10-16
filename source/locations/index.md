@@ -12,7 +12,7 @@ FabLab is located at Gollierstrasse 70, Westend.
 
 # Munich Maker Lab
 
-The [Munich Maker Lab](https://munichmakerlab.de/) offers a great variety of tools, wifi and a number of electronic equipment. Especially, due to the Siemens background of the space, there are many electronic spare parts that are free to use to Club members.
+The [Munich Maker Lab](https://munichmakerlab.de/) offers a great variety of tools, wifi and a number of electronic equipment. The Munich Maker Lab is a great location, and has a meetup every Thursday see [The Hacker Room project](http://www.meetup.com/The-Hacking-Room-Project-Munich/).
 
 Munich Maker Lab is located at Werk1, Kunspark Ost/Haidhausen.
 
