@@ -1,4 +1,12 @@
 <aside id="sidebar"<% if (theme.sidebar === 'bottom'){ %> class="outer"<% } %>>
+
+<section class="meetup">
+  <h1>Sign up at</h1>
+  <a href="http://www.meetup.com/Munchen-Arduino-Meetup/">
+    <img src="/css/images/meetup-logo.png" /> 
+  </a> 
+</section>
+
   <% theme.widgets.forEach(function(widget){ %>
     <%- partial('_widget/' + widget) %>
   <% }) %>

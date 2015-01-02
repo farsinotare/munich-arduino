@@ -86,9 +86,9 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-    repo: git@github.com-mms:munichaug/munichaug.github.io.git
-      branch: master
-        message: deploy
+  repo: git@github.com-arduino:munichaug/munichaug.github.io.git
+  branch: master
+  message: deploy
 
 feed:
     type: atom
