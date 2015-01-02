@@ -4,19 +4,30 @@ date: 2014-09-05 10:14:44
 
 # Munich projects
 
+
+## Accelerometers with Bluetooth
+
+<img src="/images/robot_0.jpg" />
+[Thomas Schütt's Roboshock project](http://www.roboshock.de/other/)
+
+## RC car
+
+Building a RC car [actually with Raspberry PI](http://www.raspberry-pi-car.com/) by Ingmar Stapel.
+
+<img src="/images/rp_car.jpg" />
+
+## Segway
+
+Carlos demoed some mini Segway.
+
+<img src="/images/segway.jpg" />
+
+
 ## Realtime interactions with web browsers
 
 The [slides of Michael Macherey''s talk](http://slides.com/michaelmacherey/meteornunduino)  contain a general overview of the project, the Wii Nunchuck and the software based on Meteor and MongoDB.
 
 The code is [at github](https://github.com/Goyapa/mongoduinometeor).
-
-## Accelerometers with Bluetooth
-
-[Thomas Schütt's project](http://www.roboshock.de/other/)
-
-## RC car
-
-Building a RC car [actually with Raspberry PI, but moving it to Arduino](http://www.raspberry-pi-car.com/)
 
 
 ## LEDlogics One
