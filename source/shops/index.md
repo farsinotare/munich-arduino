@@ -6,12 +6,15 @@ date: 2014-09-08 08:17:48
 
 * [Watterott.com](http://www.watterott.com/)
 * [Eibtron](http://eibtron.com)
-* [Conrad](http://www.conrad.de/ce/)
 * [Exp-Tech](https://www.exp-tech.de/)
+* [Conrad](http://www.conrad.de/ce/)
 * [Flikto](http://www.flikto.de/)
-* [Flikto](http://www.flikto.de/)
+* [Mouser](http://www.mouser.de/)
 * [Eckstein Komponente](http://eckstein-shop.de/)
 * [Reichelt Elektronik](http://www.reichelt.de/)
+* [Bürklin](https://www.buerklin.com/default.asp)
+* [R+S](http://de.rs-online.com/web/)
+* [Pollin](http://www.pollin.de/shop/index.html)
 
 # PCB
 
