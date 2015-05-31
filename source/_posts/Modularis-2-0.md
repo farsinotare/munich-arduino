@@ -14,6 +14,8 @@ Modularis provides a number of sensors and actuators that can be easily connecte
 
 An important feature of Modularis is the use of the I2C bus. You can easily connect sensors and actuators with ribbon cable. And, you can connect a microcontroller for system control too. Currently, Modularis supports Atmega168 and Atmega328 microcontrollers which are easy to program with the common AVR tools. Matthias is experimenting with other microcontrollers such as ARM Cortex based devices too. But contact Matthias for more information on this.
 
-We then had an overview of common Modularis boards, such as bridges for CAN and LIN, as well as Wifi. The highlight of the evening was a demo of plotter that was built with Modularis.
+We then had an overview of common Modularis boards, such as bridges for CAN and LIN, as well as Wifi. The Modularis system also works with a Raspberry Pi. The highlight of the evening was a demo of plotter that was built with Modularis.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/xt1jIpqrhD4" frameborder="0" allowfullscreen></iframe>
+
+After the talk, we had some discussions about differences between Modularis and Arduino. Matthias explained that while Arduino is nice for basic electronics, he thinks that Modularis provides a much better entry point for learning about control theory and systems. We are planning to have some more meetups about teaching system design with Modularis soon. 
